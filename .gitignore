@@ -7,4 +7,13 @@
 /build/
 /vendor/
 /bin/
+.ssh/
+.vagrant/
+Capfile
+Gemfile
+Gemfile.lock
+Vagrantfile
+ansible.cfg
+deployment/
+devops/
 /composer.phar
